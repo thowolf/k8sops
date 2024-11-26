@@ -8,9 +8,7 @@ Thanks to all the people who donate their time to the Home Operations Discord co
 
 onedr0p
 bernd-schorgers / bjw-s
-
 buroa
-
 joryirving
 
 For all their hard work and dedication

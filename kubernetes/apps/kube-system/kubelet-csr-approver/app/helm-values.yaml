@@ -1,0 +1,3 @@
+---
+providerRegex: ^(k8s01-cp)$
+bypassDnsResolution: true
